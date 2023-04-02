@@ -1,0 +1,10 @@
+.container {
+    background-color: var(--dark-theme-background);
+    color: var(--dark-theme-color);
+
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,7 @@
+.bomb {
+    height: 2rem;
+    width: 2rem;
+    background-color: var(--bomb-color);
+    border-radius: 60%;
+    position: relative;
+}

@@ -1,0 +1,12 @@
+:root {
+    --dark-theme-background: #2f2f2f;
+    --dark-theme-color: #cccccc;
+    --player-color: #4beb23;
+    --bomb-color: #f00d0d;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
